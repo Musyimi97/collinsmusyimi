@@ -237,6 +237,7 @@ input.error, textarea.error {
 	text-align: center;
 	position: absolute;
 	margin: 0 auto;
+	top: 0px;
 }
 
 #nav-sticky-wrapper.is-sticky #nav {
@@ -263,11 +264,11 @@ input.error, textarea.error {
 	display: block;
 	font-size: 0.938em;
 	letter-spacing: 0.1em;
-	color: #5b9bbc;
+	color: #f4f8fa;
 	text-decoration: none;
 }
 
-#nav ul li a:hover, #nav ul li.current a { color: #fff; }
+#nav ul li a:hover, #nav ul li.current a { color: rgb(108, 33, 138); }
 
 /* 2.2 Info box */
 
