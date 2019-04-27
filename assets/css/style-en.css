@@ -485,7 +485,6 @@ input.error, textarea.error {
 	#nav ul li { padding: 0 5px; }
 }
 .fa {
-	align-content: space-between;
   padding: 15px;
   font-size: 30px;
   width: 30px;
