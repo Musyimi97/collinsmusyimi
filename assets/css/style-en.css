@@ -555,5 +555,8 @@ input.error, textarea.error {
 	background-color: white;
 	color: white;
 }
-.fa-file-pdf
+.fa-file-pdf-o{
+	color: red;
+	size: 36px;
+}
 
