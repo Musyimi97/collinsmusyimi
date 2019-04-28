@@ -83,7 +83,7 @@ a img {
 .section,
 .section-alt {
 	margin: 0 auto;
-	padding: 75px 0;
+	padding: 30px 0;
 	position: relative;
 }
 
@@ -104,7 +104,7 @@ a img {
 .resume {
 	margin: 0 0 15px 0;
 	padding: 0;
-	font-size: 2.250em;
+	font-size: 1.250em;
 	font-weight: 300;
 	color: #f6f7fa;
 	text-transform: uppercase;
@@ -115,7 +115,8 @@ a img {
 .resume-btn{
 	background-color: white;
 	border: white;
-
+	border-radius: 25px;
+	padding: 0;
 }
 .resume-btn:hover {
 	opacity: 0.7;
