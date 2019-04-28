@@ -590,13 +590,14 @@ input.error, textarea.error {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: white;
-  color: black;
-	text-align: left;
+  background-color: blue;
+  color: white;
+	text-align: left ;
+	text-indent: 30px;
 	
 }
 .footer-text{
-	margin: 5px;
+	margin: px;
 	font-weight: 300;
 }
 
