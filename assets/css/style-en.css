@@ -113,8 +113,10 @@ a img {
 	letter-spacing: 0.1em;
 }
 .resume-btn{
-	background-color: rgb(204, 13, 204);
-	border: rgb(204, 13, 204);
+	background-color: white;
+	border: white;
+
+	}
 
 
 }
@@ -502,6 +504,7 @@ input.error, textarea.error {
 	#nav ul li { padding: 0 5px; }
 }
 .fa {
+	margin: 0 0 15px 0;
   padding: 15px;
   font-size: 30px;
   width: 30px;
@@ -540,11 +543,12 @@ input.error, textarea.error {
   color: white;
 }
 
-.fa-yahoo {
+.fa-envelope {
   background: white;
   color: white;
 }
 .fa-github{
+
 	background-color: white;
 	color: white;
 }
