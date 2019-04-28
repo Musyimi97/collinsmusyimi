@@ -116,10 +116,14 @@ a img {
 	background-color: white;
 	border: white;
 
-	}
-
-
 }
+.resume-btn:hover {
+	opacity: 0.7;
+}
+
+
+
+
 
 .section-title .cool {
 	line-height: 1.7em;
@@ -504,7 +508,6 @@ input.error, textarea.error {
 	#nav ul li { padding: 0 5px; }
 }
 .fa {
-	margin: 0 0 15px 0;
   padding: 15px;
   font-size: 30px;
   width: 30px;
