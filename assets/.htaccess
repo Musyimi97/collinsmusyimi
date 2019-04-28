@@ -1,0 +1,7 @@
+<files *.html>
+SetOutputFilter DEFLATE
+</files>
+
+<IfModule mod_headers.c>
+Header set Connection keep-alive
+</IfModule>
