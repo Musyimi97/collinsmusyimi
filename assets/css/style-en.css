@@ -106,15 +106,16 @@ a img {
 	padding: 0;
 	font-size: 2.250em;
 	font-weight: 300;
-	color: #0f1025;
+	color: #f6f7fa;
 	text-transform: uppercase;
 	display: block;
 	text-align: center;
 	letter-spacing: 0.1em;
 }
 .resume-btn{
-	background-color: green;
-	
+	background-color: rgb(204, 13, 204);
+	border: rgb(204, 13, 204);
+
 
 }
 
